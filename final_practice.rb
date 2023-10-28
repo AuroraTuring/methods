@@ -19,7 +19,7 @@ puts greeting.upcase
 
 # 2: Write a method named custom_greeting that returns a greeting WITH a specific name.
 
-ame = "Aurora"
+name = "Aurora"
 
 def custom_greeting(name)
   return "Welcome to the game, #{name}!"
